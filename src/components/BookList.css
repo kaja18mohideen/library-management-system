@@ -1,0 +1,17 @@
+
+  /* components/BookList.css */
+  .book-list-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .book-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .book-list li {
+    padding: 0.5rem;
+    border-bottom: 1px solid #ccc;
+  }
+  
